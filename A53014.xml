@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new year's gift for Sir Bartholomew Shower</title>
+            <author>Percival, Thomas, fl. 1696-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53014</idno>
+            <idno type="STC">Wing N802B</idno>
+            <idno type="STC">ESTC R42210</idno>
+            <idno type="EEBO-CITATION">24400483</idno>
+            <idno type="OCLC">ocm 24400483</idno>
+            <idno type="VID">109693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1708:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new year's gift for Sir Bartholomew Shower</title>
+                  <author>Percival, Thomas, fl. 1696-1697.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains signatures: p. [1], Tho. Percivall; p. [2], T.P.</note>
+                  <note>Includes copies of letter from John Tillotson to Sir Edward Atkins, and address of Sir Bartholomew Shower.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shower, Bartholomew, --  Sir, 1658-1701. --  Address to King Charles the Second ... 23d of June 1681.</term>
+               <term>Percival, Thomas, fl. 1696-1697.</term>
+               <term>Tillotson, John, 1630-1694.</term>
+               <term>Atkins, Edward, --  Sir, 1630-1698.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:109693:1"/>
+            <head>A New Year's Gift for Sir <hi>BARTHOLOMEW SHOWER.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have hitherto choſen to ſuccumb, and that for a long time, under Ill Uſage and Great Oppreſſion, rather than to trouble the World with the Hiſtory of the Life of ſo incon<g ref="char:EOLhyphen"/>ſiderable a Perſon as I eſteem my ſelf; but you having now laid me under a neceſſity of doing it, by vilifying me as you did the laſt Night in the Committee of the Houſe of Commons: I ſhall ſet about it, and eſſay my Vindication againſt the wicked Miſrepreſenta<g ref="char:EOLhyphen"/>tions of a foul-mouth'd Orator, and the hard Thoughts of ſome Good Men who have not rightly underſtood me and my Caſe. And as an Introduction to it, do here lay before you and the VVorld, the underwritten Copy of a Letter, wrote by that Great and Good Man the late Arch-Biſhop of <hi>Canterbury,</hi> to the truly Honourable the late Lord Chief Baron <hi>Atkins;</hi> and when you have peruſed that, you ſtand obliged to pardon me, that I ſubjoin a ſhort Relation of ſome of the Pranks of Mr. <hi>Barth. Shower,</hi> which gave him the Honour of Knighthood, and were the Ladder to his Preferment; and as I ever thought, ſo I now tell you, that 'twas great Pitty (to borrow from the late Earl of <hi>Nottingham</hi>) that you had not had another ſort of <hi>Advancement:</hi> And I ſhould rejoice to ſee you promoted according to your Demerit. Not to inlarge at preſent, reſt aſſured that I ſhall exert my ſelf to quit Scores with you; tho now I remain</p>
+            <closer>
+               <signed>Yours highly indebted, <hi>Tho. Percivall.</hi>
+               </signed>
+               <dateline>
+                  <date>Ult. <hi>Decemb.</hi> 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>London, April 28. 1685.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>I <hi>Think my ſelf obliged to give you ſome account of the Matter formerly referred to your ſelf and me, concerning my Lady</hi> Ruſſel <hi>and Mr.</hi> Percivall, againſt whom I had entertained ſome Prejudice upon the Reports concerning him; <hi>but having now together with one Mr.</hi> Samuel Faircloth, <hi>made up the Account ſo long depending between them, except ſome Law Matters which are referred to the final Determination of Mr.</hi> Folkes <hi>and Mr.</hi> Rawlinſon: <hi>I muſt do Mr.</hi> Perci<g ref="char:EOLhyphen"/>vall <hi>that right as to aſſure you, that</hi> he carried himſelf very fairly in this Matter; was ready to rectify all Miſtakes, and to yeild to Juſtice and Reaſon in all things we could deſire him: <hi>And as he hath a very good <g ref="char:V">Ʋ</g>nderſtanding, ſo for any thing that appeared in this Matter, I believe</hi> a juſt and honeſt Mind. <hi>All that I can blame him for is want of Care in making up timely and punctual Accounts, whereby there happened ſeveral Miſtakes and Omiſſions to his own Prejudice as well as my Lady's; which I hope are now rectified on both ſides to their mutual Satisfaction.</hi> This Teſtimony I do willingly give to Mr. <hi>Percivall,</hi> to ſet him right in your Opinion, fearing leſt what I ſaid of him to you upon Report, might have done him ſome Prejudice in your Eſteem. <hi>I am heartily ſorry for your late great Loſs; and reſt, SIR,</hi>
+            </p>
+            <closer>
+               <signed>Your moſt Obliged and Humble Servant, <hi>Jo. Tillotſon.</hi>
+               </signed>
+            </closer>
+            <trailer>To the Honourable Sir <hi>Edward Atkins,</hi> one of the Barons of the Exchequer.</trailer>
+         </div>
+         <div type="inquiry_concerning_address">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <head>A Copy of Mr. <hi>BARTHOLOMEW SHOWER</hi>'s Addreſs to King <hi>Charles</hi> the Second, as in <hi>Gazette</hi> the <hi>23d</hi> of <hi>June, 1681.</hi>
+                        </head>
+                        <head type="sub">To the King's Moſt Excellent Majeſty.</head>
+                        <head type="sub">The Humble ADDRESS of the <hi>Loyal Society</hi> of the <hi>Middle Temple.</hi>
+                        </head>
+                        <opener>
+                           <salute>May it pleaſe Your Majeſty,</salute>
+                        </opener>
+                        <p>WE Your Majeſty's moſt Loyal and Dutiful Subjects, being <hi>ſenſible of the great Bleſſings which this Kingdom hath enjoyed, ever ſince Your Majeſty's Reſtauration,</hi> under your moſt Gracious and In<g ref="char:EOLhyphen"/>dulgent Government, and moſt eſpecially <hi>in the conſtant preſervation of the eſtabliſhed Religion, our Laws and Liberties;</hi> and this <hi>our Satisfaction being lately renewed by your</hi> Majeſty<hi>'s MOST GRACIO<g ref="char:V">Ʋ</g>S DE<g ref="char:EOLhyphen"/>CLARATION,</hi> whereby your Majeſty hath been pleaſed further to aſſure us of <hi>your continued Reſolutions to have frequent Parliaments, and govern according to the Laws:</hi> Which <hi>juſt Reſolution</hi> of your Majeſty, we doubt not but your Majeſty will continue, and conſtantly maintain, and therefore think it our bounden Duty to declare to your Majeſty and the whole World, our Affection and Zeal for your Maje<g ref="char:EOLhyphen"/>ſty's Perſon and Government, both in Church and State by Law eſtabliſhed, and that <hi>we will not be wanting with our Lives and Fortunes,</hi> to ſerve your Majeſty againſt <hi>your Majeſty's and the Kingdoms Enemies, who under ſpecious Pretences, and by poiſeſſing the People with groundleſs Fears and Jealouſies, would bring us
+<pb facs="tcp:109693:2"/>back into Confuſion and Anarchy.</hi> That your moſt Sacred Majeſty <hi>may happily diſperſe and confound the wicked Contrivances of evil and unquiet Men, who endeavour to diſturb the Peace and Tranquility of your Majeſty's Government;</hi> and that your Majeſty may continue a long and happy Reign over us, ſhall ever be the conſtant Prayer of your Loyal and Obedient Subjects,</p>
+                        <closer>
+                           <signed>Barth. Shower, &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now good Sir <hi>Bat,</hi> (for after this Famous Addreſs, you ceaſed to be plain honeſt <hi>Bat. Shower</hi>) bear with me that I do a little interrogate you about this your Addreſs, and in all Love anſwer me theſe few Queſtions.</p>
+            <p n="1">1. Was there not Colluſion in the Title of this your Addreſs? What was this <hi>your Society of the Middle Temple,</hi> did it in truth conſiſt of more than your <hi>own Self,</hi> and a very ſmall Number of <hi>Iriſh Gentlemen</hi> and others not above 12 in the whole?</p>
+            <p n="2">2. Whether was not that very <hi>Gracious Declaration,</hi> a high Violation of the Laws, and a Libel upon three of the greateſt Parliaments the Nation ever ſaw?</p>
+            <p n="3">3. As to <hi>Life and Fortunes?</hi> Whether you did not in ſtrictneſs of Law forfeit the firſt, by Signing that Addreſs; and whether at that time the latter had been worth the begging?</p>
+            <p n="4">4. Whom did you then deem <hi>the Kingdoms Enemies,</hi> anſwer without Evaſion or Reſerve, did not you intend the great and invaluable Earl of <hi>Eſſex,</hi> Lord <hi>Ruſſel,</hi> Col. <hi>Algernon Sidney, &amp;c.</hi> whom ſuch Addreſſes animated that your indulgent King to murder, nay further did not you alſo mean the <hi>Lords and Commons</hi> of the <hi>Oxford Parliament?</hi> Speak plainly Man and fear not, for to your Comfort, there is an Act of Indemnity.</p>
+            <p n="5">5. Did not that Learned and Honourable Society deteſt your fawning pernicious <hi>Addreſs,</hi> and manifeſt their Abhorrence thereof and of your Practiſe, by a <hi>Counter Addreſs?</hi> If ſo, was not that propoſed and voted in the <hi>Middle Temple Hall,</hi> and ſigned by almoſt the whole Body of that Famous Society?</p>
+            <p>Sir, in your anſwering theſe Interrogatories, pleaſe to allow a Friend to caution you to have a ſpecial regard to Truth, eſpecially in what you ſay to the laſt, for you know I had the Honour to be one of that Aſſembly, and to put my Hand and Heart to that Addreſs, to the incurring your high Diſpleaſure, nay to the hazard of <hi>my Life and Fortune,</hi> which was then at leaſt as good as yours: By my next (for I find you and I are to fall into a cloſe Carreſpondence) I ſhall ſend you a Copy of it; and then ſhall remember you, for what good Services you roſe in the World, and were in a way of getting <hi>the Devil and All,</hi> had not the <hi>Happy Revolution</hi> ſtopp'd your Career. I know whom you ſucceeded as Recorder of <hi>London;</hi> why that great Man threw it up; to what end you were put in; and how you did the Drudgery of that Day to ſuch Content, that you were to have taken a Seat by the moſt remarkable Lord Chief Juſtice that ever ſat in the Court of Kings Bench (<hi>Treſilian</hi> himſelf not excepted) I mean <hi>Wright;</hi> had not his Majeſty's, the then Prince of <hi>Orange</hi>'s Glorious Expedition daſh'd all your Hopes. Now ſeeing you were not found upon the Bench, it had been <hi>a Raree Show</hi> to have ſeen you brought to <hi>the Bar</hi> together. Miſtake me not, I ſhould not have rejoyc'd to have heard that you died together in <hi>Newgate,</hi> but how could I have prevented it had you been ordered to be conveyed thence to —</p>
+            <p>But you having happily eſcaped by the Lenity of his Majeſty's moſt Benign Government, have ſince been again aſpiring to that honourable Place of Recorder of our Metropolis; and I care not if I take this occa<g ref="char:EOLhyphen"/>ſion to tell the World what you already know, and therefore ſpit your Poiſon at me, that I my ſelf in a Scrip of Paper, entred <hi>a Caveat</hi> againſt you, and you obtained not what you then aimed at.</p>
+            <p>Before I conclude, I ſhall remark upon the Accuſation you bring againſt me: You ſay I have been <hi>a riding Commiſſioner for the late Elections.</hi> It is to this Day remembred that I was taken up by your Friend <hi>Atter<g ref="char:EOLhyphen"/>bury,</hi> and at the Council Board criminated (as now I am) by the Lord Keeper <hi>North.</hi> He upbraided me that <hi>I had been riding over the Kingdom to buſy my ſelf in Elections, to the Diſturbance of the King's Government.</hi>
+            </p>
+            <p>I confeſs to you Sir, If it muſt be termed buſying my ſelf, I have done <hi>ut potui,</hi> in abundance of Electi<g ref="char:EOLhyphen"/>ons, for above 20 years paſt, as is well known to many Members of this Parliament: But withal challenge you and all Mankind to ſhew that I ever acted for an ill Man, tho in the Days of Yore, we ſaw too many ſuch in Parliament. Now to reaſon the Cafe with you; why I beſeech you, may not I as lawfully ſollicite for a good Man, as you plead for any Man? 'Tis ſurely at leaſt as commendable to be induſtrious in the Service of Ones Countrey, as for its Deſtruction. I defy you and all the World to prove that I have menac'd, or brib'd any one Man for obtaining his Vote; nay that I have miſrepreſented or diſparaged any Man, further than by calling a <hi>Spade a Spade.</hi> I am very ſure that I my ſelf ſtand at this inſtant at ſuch a diſtance from Bribery, that I can and do affirm, that in about four Months Fatigue, I have got nothing beyond the comfortable Reflection, that I have engaged, <hi>totis viribus,</hi> in the Service of my Generation, tho you now take the Freedom to vilify me for doing it.</p>
+            <p>Your next Charge upon me is that <hi>I drank King</hi> James<hi>'s Health;</hi> What now if I ſhould digreſs a little, and tell you a pleaſant Paſſage: Being lately in Company with one who uſually aſſociates with your old Gang; <hi>I began King</hi> William<hi>'s Health, and Proſperity to his Government:</hi> The <hi>Tory</hi> having chatted on, and forgot the Health and what Company he was in; very innocently, I verily think, took up the Glaſs, and clap<g ref="char:EOLhyphen"/>ping his next Neighbour on the Shoulder, ſaid, Come <hi>here's King</hi> James's <hi>his Health,</hi> but inſtantly perceiv<g ref="char:EOLhyphen"/>ing his Miſtake was not a little confounded. To return now to what we were upon, the heavy Charge of my drinking <hi>King</hi> James<hi>'s Health.</hi> The Story in ſhort was this, finding there were ſome at <hi>Eaſt-Grinſtead</hi> ſmelt rank of Popery, more of Jacobitiſm, I had a mind to try <hi>the Parſon,</hi> and in a jocoſe Humour ſaid to him, <hi>Come Doctor what if you and I ſhould drink King</hi> James<hi>'s Health?</hi> you here have the Truth of the Tale, and make your beſt of it.</p>
+            <p>Sir, I have intimated how I fell under your Diſpleaſure; and having mentioned the infamous Lord Chief Juſtice <hi>Wright,</hi> ſhall briefly declare how I incurred his. In ſeveral Elections in the Counties of <hi>Norfolk, Suffolk</hi> and <hi>Cambridg,</hi> in the bleſſed Reign of your Gracious King, I met and to his Face ever boldly oppo<g ref="char:EOLhyphen"/>ſed this Sir <hi>Rob. Wright,</hi> and <hi>the Tory Intereſt,</hi> which he ever eſpouſed. The Wretch, to the aſtoniſhment of all good Men, (as a reward of his Villanies) ſtepping <hi>gradatim</hi> through all the Courts of <hi>Weſtminſter,</hi> to the Seat of the Lord Chief Juſtice, made me feel the effect of his Fury, whereof my next ſhall give you a full Relation, and indeed not only his own Revenge, but the Rage of <hi>Jeffries</hi> irritated him againſt me, for clapping into <hi>Nath. Thompſon</hi>'s Popiſh Intelligence, an idle Tale of <hi>an untimely Female ſquint-ey'd Child.</hi> I am however ſtill, a ſincere Lover of my Country.</p>
+            <closer>
+               <signed>And Your Debtor, <hi>T. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
